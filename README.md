@@ -3,8 +3,6 @@ Folder with the dataset used for the second assignment of Computer Vision.
 
 ## Dataset structure
 
--> ANODE Dataset <-
-
 The ANODE dataset was created in the context of the ATLANTIS project and contains 18230 images collected at the ATLANTIS Test Center in Viana do Castelo, more specifically at the DURIUS buoy, designed to test robotic platforms for O&M, and at the CRAS interior pool. The images depict Cathodic Protection Systems (CPSs), namely sacrificial anodes, which serve as a shield to protect a maritime structure from corrosion. This dataset serves to train Deep Learning object detectors. The ANODE dataset images were manually annotated and the correspondent labels are also available in txt files, one for each image. The txt files contain 5 values: the first correspondent to the object class and the other four to the bounding box information. These four values are normalized with respect to the image width and height (the top-left corner of the image is the origin):
 - x coordinate center point of the bounding box;
 - y coordinate center point of the bounding box;
