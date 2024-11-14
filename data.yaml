@@ -1,0 +1,5 @@
+train: C:\Users\AdminAVC\OneDrive - Universidade do Porto\Universidade\5ºAno-1S\VC\VC_Assignment2\datasets\kame_cras_pool_2023-11-08\images_shuffle\train
+val: C:\Users\AdminAVC\OneDrive - Universidade do Porto\Universidade\5ºAno-1S\VC\VC_Assignment2\datasets\kame_cras_pool_2023-11-08\images_shuffle\test
+
+nc: 1  # number of classes
+names: ['anode']
